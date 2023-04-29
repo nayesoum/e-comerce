@@ -2,3 +2,11 @@ body{
     background-color: aqua;
 }
 
+.widget_header{
+    width: 30px; 
+    height:30px;
+}
+
+.navbar{
+    padding: 20px;
+}

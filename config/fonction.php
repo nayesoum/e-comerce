@@ -1,5 +1,5 @@
 <?php
-require("config/connexion.php");
+require("connexion.php");
 // je crée une fonction qui va ajouter les produits
 function ajouter ($nom, $image, $description , $prix ){
     //la connexion.ph 
