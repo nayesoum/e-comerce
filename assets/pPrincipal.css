@@ -1,0 +1,10 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/3908800/pexels-photo-3908800.jpeg?auto=compress&cs=tinysrgb&w=2500");
+}
+
+h1{
+    size: 2rem;
+}

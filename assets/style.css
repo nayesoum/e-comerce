@@ -10,3 +10,25 @@ body{
 .navbar{
     padding: 20px;
 }
+
+#pageDressing{
+    background-image: url("https://images.pexels.com/photos/5705490/pexels-photo-5705490.jpeg?auto=compress&cs=tinysrgb&w=600");
+}
+
+
+/*  /////////////////////////////////////////////////////////*/
+
+
+li{
+    text-decoration: none;
+    list-style: none;
+    width: 10rem;
+
+}
+.mycarousel{
+    
+    width: 400px;
+    /* height: 300px; */
+    
+}
+  
